@@ -422,6 +422,22 @@ Aplicação de gerenciamento de cobranças desenvolvida seguindo a sequência de
   - 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Para rodar a aplicação na sua máquina realize os seguintes comandos na pasta front-end:
  - npm install (instalação das dependências)
  - npm run dev (rodar a aplicação localmente)

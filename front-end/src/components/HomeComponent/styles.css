@@ -1,0 +1,25 @@
+.homecomponent-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Nunito;
+    min-width: 1138px;
+    max-width: 1138px;
+    margin: 24px 108px 0px calc(108px + 80px);
+}
+
+.home-title {
+    position: absolute;
+    top: 54px;
+    font-family: Nunito;
+    font-size: 26px;
+    font-weight: bold;
+    color: #343447;
+}
+
+.homecard-box,
+.totalcard-box,
+.clientscard-box {
+    display: flex;
+    justify-content: space-between;
+}

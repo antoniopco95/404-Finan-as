@@ -1,4 +1,3 @@
-
 # Título do Projeto
 
 Projeto que simula um sistema de cobranças, capaz de cadastrar e logar um usuário, além de ser possível cadastrar clientes e suas respectivas contas, sendo possível ter o controle de clientes inadimplentes e em dia.
@@ -425,6 +424,7 @@ Projeto que simula um sistema de cobranças, capaz de cadastrar e logar um usuá
   - Ao clicar no nome <b>"Ver Todos"</b> no card de <b>"clientes inadimplentes”</b> ou “clientes em dia", deverá ser redirecionado para a página clientes com a listagem dos clientes filtrados, por cada categoria.
   - Ao clicar no nome <b>"Ver Todos"</b> no card de <b>"cobranças vencidas"</b> ou <b>cobranças previstas"</b> ou <b>"cobranças pagas"</b>, deverá ser redirecionado para a página cobranças com a listagem de todas as cobranças já filtrada por cada categoria.
   </details>
+
 
 ## Instalação
 

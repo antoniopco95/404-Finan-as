@@ -183,7 +183,7 @@
 
 ---
 
-## <b>ATENÇÃO</b> É indispensável fazer deploy do projeto e disponibilizar a URL para o cliente realizar os testes. O não cumprimento desta etapa será considerada uma falha grave.
+
 
 </details>
 

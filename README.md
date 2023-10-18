@@ -419,24 +419,7 @@ Aplicação de gerenciamento de cobranças desenvolvida seguindo a sequência de
   - Em cada elemento dos cards da home, deverá exibir a <b>contagem de cobranças e clientes</b> de acordo com seus respectivos status
   - Ao clicar no nome <b>"Ver Todos"</b> no card de <b>"clientes inadimplentes”</b> ou “clientes em dia", deverá ser redirecionado para a página clientes com a listagem dos clientes filtrados, por cada categoria.
   - Ao clicar no nome <b>"Ver Todos"</b> no card de <b>"cobranças vencidas"</b> ou <b>cobranças previstas"</b> ou <b>"cobranças pagas"</b>, deverá ser redirecionado para a página cobranças com a listagem de todas as cobranças já filtrada por cada categoria.
-  - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </details>
 
 Para rodar a aplicação na sua máquina realize os seguintes comandos na pasta front-end:
  - npm install (instalação das dependências)

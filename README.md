@@ -182,12 +182,8 @@
 </details>
 
 ---
-
-
-
 </details>
 
----
 
 <br>
 

@@ -182,10 +182,9 @@ Aplicação de gerenciamento de cobranças desenvolvida seguindo a sequência de
   - O frontend hospedado deverá ser <b>integrado</b> ao backend também hospedado
 
 </details>
-
----
 </details>
 
+---
 
 <br>
 
@@ -421,6 +420,7 @@ Aplicação de gerenciamento de cobranças desenvolvida seguindo a sequência de
   - Ao clicar no nome <b>"Ver Todos"</b> no card de <b>"cobranças vencidas"</b> ou <b>cobranças previstas"</b> ou <b>"cobranças pagas"</b>, deverá ser redirecionado para a página cobranças com a listagem de todas as cobranças já filtrada por cada categoria.
   </details>
 
-Para rodar a aplicação na sua máquina realize os seguintes comandos na pasta front-end:
+
+  Para rodar a aplicação na sua máquina realize os seguintes comandos na pasta front-end:
  - npm install (instalação das dependências)
  - npm run dev (rodar a aplicação localmente)

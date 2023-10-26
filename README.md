@@ -1,7 +1,7 @@
 
 # 404 Finanças
 
-Projeto que simula um sistema de cobranças, capaz de cadastrar e logar um usuário, fazer a gestão de transações, além gerar relatórios detalhados e resumos financeiros.
+Projeto que simula um sistema de cobranças, capaz de cadastrar e logar um usuário, fazer a gestão de transações, além de gerar relatórios detalhados e resumos financeiros.
 ## Instalação
 
 Para rodar o projeto localmente na sua máquina:
